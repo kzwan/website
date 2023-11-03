@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kzwan/website.git/static/css/main.073c9b0a.css",
+    "main.js": "/kzwan/website.git/static/js/main.08112f1e.js",
+    "static/js/787.af78eaf3.chunk.js": "/kzwan/website.git/static/js/787.af78eaf3.chunk.js",
+    "static/media/logo.svg": "/kzwan/website.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kzwan/website.git/index.html",
+    "main.073c9b0a.css.map": "/kzwan/website.git/static/css/main.073c9b0a.css.map",
+    "main.08112f1e.js.map": "/kzwan/website.git/static/js/main.08112f1e.js.map",
+    "787.af78eaf3.chunk.js.map": "/kzwan/website.git/static/js/787.af78eaf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.08112f1e.js"
+  ]
+}
