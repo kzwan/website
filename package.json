@@ -1,7 +1,7 @@
 {
   "name": "kennethwanwebsite",
   "version": "0.1.0",
-  "homepage": "https://github.com/kzwan/website.git",
+  "homepage": "https://kzwan.github.io/website/",
   "private": true,
   "dependencies": {
     "@fontsource/inter": "^5.0.15",
